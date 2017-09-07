@@ -10,6 +10,11 @@ minutes.
 
 [Explore Decentraland](https://decentraland.org/app/)
 
+
+## Revolt Alternate Client 
+
+The team at Webshards brings you the 'Revolt' client for Decentraland.  This alternate client uses the same underlying land data and smartcontracts for Decentraland.  This open-source client is intended to include AFrame and more modern web technologies in order to allow landowners to build content more seamlessly in a more light-weight format that does not depend on Unity.  
+
 ## Components
 
 * **Node**: An open and trustless land ownership record and scene content distribution network.
@@ -39,6 +44,8 @@ To run your own node and mine new land see [these instructions](#run-a-node).
 The Decentraland node is a fork of [bcoin](https://github.com/bcoin-org/bcoin),
 a Bitcoin full-node implementation in JavaScript. In what follows we describe
 all the places where we depart from Bitcoin.
+
+The 'Revolt' client uses the AFrame framework for building and rendering 3D content on land tiles.  We do not use Unity like early builds Stone Age and Bronze Age because it is a centralized for-profit editor and is not nearly as light-weight, malleable, or versatile.  
 
 ### Consensus rules
 
