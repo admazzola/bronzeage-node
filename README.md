@@ -150,9 +150,9 @@ or
 ```
 openssl rand -base64 32
 ```
-then
+then (example)
 ```
-export RPC_API_KEY=123456789123456789123456789
+export RPC_API_KEY=TeaZxyQATonFFFLCXZMydUfGGUWwBsg9Je
 ```
 6. Run the node!
 	* Windows: `bin\start.bat`
