@@ -133,7 +133,7 @@ docker-compose up
 ### Run a node manually
 1. Clone the repo:
 ```
-git clone https://github.com/decentraland/bronzeage-node.git && cd bronzeage-node
+git clone https://github.com/admazzola/decentraland-revolt-node && cd decentraland-revolt-node
 ```
 2. [Download and install NodeJS](https://nodejs.org/en/) v7.4.0. See [nvm](http://nvm.sh) for version management.
 3. Install dependencies (__Linux only__):
