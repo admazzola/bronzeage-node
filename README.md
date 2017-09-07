@@ -146,6 +146,14 @@ apt-get update && apt-get install -y --no-install-recommends build-essential pyt
 ```
 head -c 32 /dev/random | base64
 ```
+or 
+```
+openssl rand -base64 32
+```
+then
+```
+export RPC_API_KEY=123456789123456789123456789
+```
 6. Run the node!
 	* Windows: `bin\start.bat`
 	* Linux & Mac: `./bin/start`
