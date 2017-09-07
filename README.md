@@ -1,6 +1,6 @@
 ![](https://decentraland.org/favicon.ico)
 
-## ReVolt ⚡ Alternate Client 
+## ReVolt ⚡ Alternate Client + Node 
 
 The team at Webshards brings you the 'Revolt' client for Decentraland.  This alternate client uses the same underlying land data and smartcontracts for Decentraland.  This open-source client is intended to include AFrame and more modern web technologies in order to allow landowners to build content more seamlessly in a more light-weight format that does not depend on Unity.
 
@@ -26,6 +26,9 @@ minutes.
 * **Node**: An open and trustless land ownership record and scene content distribution network.
 * **Editor**: An easy to use 3D scene editor, that lets you publish scenes directly to any of your tiles.
 * **Browser**: A browser for navigating the virtual world of Decentraland.
+
+# Client
+Please see https://github.com/admazzola/decentraland-revolt-web
 
 # Node
 
