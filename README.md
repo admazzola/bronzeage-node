@@ -1,6 +1,13 @@
 ![](https://decentraland.org/favicon.ico)
 
-## About
+## Revolt Alternate Client 
+
+Version 0.01
+
+The team at Webshards brings you the 'Revolt' client for Decentraland.  This alternate client uses the same underlying land data and smartcontracts for Decentraland.  This open-source client is intended to include AFrame and more modern web technologies in order to allow landowners to build content more seamlessly in a more light-weight format that does not depend on Unity.  
+
+
+## About Decentraland
 
 Decentraland is an open-source initiative to build a shared virtual reality
 world. In Decentraland, the content of each piece of land is determined by its
@@ -10,10 +17,6 @@ minutes.
 
 [Explore Decentraland](https://decentraland.org/app/)
 
-
-## Revolt Alternate Client 
-
-The team at Webshards brings you the 'Revolt' client for Decentraland.  This alternate client uses the same underlying land data and smartcontracts for Decentraland.  This open-source client is intended to include AFrame and more modern web technologies in order to allow landowners to build content more seamlessly in a more light-weight format that does not depend on Unity.  
 
 ## Components
 
