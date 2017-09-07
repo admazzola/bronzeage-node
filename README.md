@@ -1,6 +1,6 @@
 ![](https://decentraland.org/favicon.ico)
 
-## Revolt Alternate Client 
+## ReVolt ⚡ Alternate Client 
 
 Version 0.01
 
