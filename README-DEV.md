@@ -9,5 +9,6 @@
 ## Dev Resources
 
 Sample web client (the revolt browser client will be based on this)
-https://aframe.glitch.me/
+    
+      https://aframe.glitch.me/
 
