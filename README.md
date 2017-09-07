@@ -2,9 +2,10 @@
 
 ## ReVolt ⚡ Alternate Client 
 
-Version 0.01
-
 The team at Webshards brings you the 'Revolt' client for Decentraland.  This alternate client uses the same underlying land data and smartcontracts for Decentraland.  This open-source client is intended to include AFrame and more modern web technologies in order to allow landowners to build content more seamlessly in a more light-weight format that does not depend on Unity.
+
+Version 0.01 
+Developers please see: https://github.com/admazzola/decentraland-revolt-node/blob/master/README-DEV.md
 
 Note:  This client is intended to allow the community to help contribute to Decentraland client technologies and to help push the bar forward, allowing for the official clients to borrow these methodologies as necessary.  
 
