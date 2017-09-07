@@ -1,4 +1,6 @@
-# This is the open-source Developer readme for the 'Revolt' client for Decentraland.  This is a prioritized task list for implementations to build.  
+# Developer Readme
+
+This is the open-source Developer Readme for the 'Revolt' client for Decentraland.  This is a prioritized task list for implementations to build.  
 
 1) Switch the content saving and rendering system from Unity to AFrame (https://aframe.io/docs/0.6.0/introduction/)
 
